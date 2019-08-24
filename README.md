@@ -1,2 +1,1 @@
-# taylorka01.github.io
-hosting
+# taylorkadreamteam.github.io
